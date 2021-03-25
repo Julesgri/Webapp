@@ -1,0 +1,74 @@
+body {
+  background-color: rgba(30, 160, 150, 0.3);
+  color: #333344;
+  text-align: center;
+  font-family: "Arial", "arial", "cursive";
+}
+#reseet {
+  visibility: hidden;
+}
+#document2 {
+  width: 40%;
+  margin: auto;
+  font-size: 2vh;
+  font-style: italic;
+}
+#docs {
+  width: 40%;
+  margin: auto;
+  font-size: 2vh;
+  font-style: italic;
+}
+#helllo {
+  visibility: hidden;
+}
+a {
+  color: #5533ee;
+  text-decoration: none;
+  font-size: 2.5vh;
+  font-style: normal;
+}
+
+strong {
+  font-size: 1.75vh;
+  font-style: normal;
+}
+
+img {
+  height: 150px;
+  float: center;
+  box-shadow: 3px 3px #888888;
+}
+#bar {
+  background-color: rgba(256, 256, 256, 0.3);
+}
+#ba {
+  background-color: rgba(256, 256, 256, 0.3);
+}
+p3 {
+  font-size: 20px;
+}
+
+ul {
+  text-align: left;
+  line-height: 20px;
+  color: black;
+  text-shadow: 0.5px 0px #888888;
+  visibility: hidden;
+  font-size: 20px;
+  background-color: white;
+  box-shadow: 3px 3px #888888;
+  padding-top: 10px;
+  font-style: oblique;
+}
+#tbar {
+  background-color: rgba(256, 256, 256, 0.3);
+  visibility: hidden;
+}
+#tba {
+  background-color: rgba(256, 256, 256, 0.3);
+  visibility: hidden;
+}
+#list2 {
+  visibility: hidden;
+}
